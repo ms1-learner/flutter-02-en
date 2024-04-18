@@ -1,6 +1,7 @@
 In this challenge, you'll create a Flutter app that utilizes the Star Wars API (SWAPI) to display data about Star Wars characters in a table.
 
-Instructions:
+## Instructions
+
 1. **Set Up Project:**
    - Set up a new Flutter project using your preferred IDE or Flutter CLI.
    - Ensure you have the necessary dependencies installed for making HTTP requests and building UI components.
